@@ -1,0 +1,29 @@
+/******* Layout *******/
+
+h1 {
+    color: #D80000;
+    text-align: center;
+
+   
+}
+
+h2 {
+    color: #9048FF;
+    text-align: center;
+    
+
+}
+
+h3 {
+   
+    color: #B49000;
+}
+
+img {
+    width: 200px;
+    height: 400px;
+    object-fit: contain;
+}
+
+
+
