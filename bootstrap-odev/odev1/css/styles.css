@@ -1,0 +1,17 @@
+body {
+    background-color: #E9ECEF;
+}
+h1 { 
+    color: blue;
+}
+
+h3 { 
+    color:green; 
+}
+
+img {
+    width: 200px;
+    height: 300px;
+    object-fit: contain;
+    align-self: center;
+}
